@@ -252,6 +252,26 @@
       "grn": "Tweaks & Additions"
     },
     {
+      "n": "Bardic Wonders: High Level Abilities",
+      "tp2n": "Bardic Wonders: High Level Abilities",
+      "cn": 2007,
+      "wf": "BardicWonders",
+      "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
+      "wq": "single_comp",
+      "no": "Adds new bard HLAs. Install after other HLA-modifying mods.",
+      "grn": "Tweaks & Additions"
+    },
+    {
+      "n": "Bardic Wonders: New Bard Spells",
+      "tp2n": "Bardic Wonders: New Bard Spells",
+      "cn": 2008,
+      "wf": "BardicWonders",
+      "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
+      "wq": "single_comp",
+      "no": "Adds new spells for bards. Install after other spell mods.",
+      "grn": "Tweaks & Additions"
+    },
+    {
       "n": "Bardic Wonders: Armored Casting for Bards",
       "tp2n": "Bardic Wonders: Armored Casting for Bards",
       "cn": 2003,
@@ -272,7 +292,7 @@
     },
     {
       "n": "Bardic Wonders: Item Restriction Tweaks",
-      "tp2n": "Bardic Wonders: Item Restriction Tweaks (bards may use mage items and priest scrolls)",
+      "tp2n": "Bardic Wonders: Item Restriction Tweaks—Bards may use mage items and priest scrolls",
       "cn": 2005,
       "wf": "BardicWonders",
       "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
@@ -286,26 +306,6 @@
       "wf": "BardicWonders",
       "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
       "wq": "exact",
-      "grn": "Tweaks & Additions"
-    },
-    {
-      "n": "Bardic Wonders: High Level Abilities",
-      "tp2n": "Bardic Wonders: High Level Abilities",
-      "cn": 2007,
-      "wf": "BardicWonders",
-      "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
-      "wq": "single_comp",
-      "no": "Adds new bard HLAs. Install after other HLA-modifying mods.",
-      "grn": "Tweaks & Additions"
-    },
-    {
-      "n": "Bardic Wonders: New Bard Spells",
-      "tp2n": "Bardic Wonders: New Bard Spells",
-      "cn": 2008,
-      "wf": "BardicWonders",
-      "wp": "BardicWonders\\SETUP-BARDICWONDERS.TP2",
-      "wq": "single_comp",
-      "no": "Adds new spells for bards. Install after other spell mods.",
       "grn": "Tweaks & Additions"
     },
     {

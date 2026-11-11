@@ -8,10 +8,7 @@
   "n": "Cernd Friendship",
   "langs": {
     "en": 0,
-    "fr": 1,
-    "de": 2,
-    "it": 3,
-    "pl": 4
+    "ru": 1
   },
   "no": "Adds friendship conversations with Cernd throughout BG2 for PCs who don't romance him. Develops his druid philosophy and family tragedy.",
   "u": "https://github.com/SpellholdStudios/CerndFriendship/releases",

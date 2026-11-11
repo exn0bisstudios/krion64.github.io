@@ -10,7 +10,8 @@
     "fr": 1,
     "de": 2,
     "pl": 3,
-    "ru": 4
+    "ru": 4,
+    "es": 5
   },
   "no": "Infinity Sounds v2 by Spellhold Studios. Restores BG1 sounds, adds creature voiceovers and ambient sounds. INSTALL LAST before biffing — patches ALL spell files and ALL creature files via regexp glob. Must install AFTER SCS, spell mods, and creature mods so sound changes are not overwritten.",
   "conflicts": [
@@ -243,32 +244,6 @@
       "tp2n": "Restore BG1 Ambient Sounds"
     },
     {
-      "n": "Restore Environmental & Positional Audio",
-      "cn": 220,
-      "wf": "infinitysounds",
-      "wp": "infinitysounds\\INFINITYSOUNDS.TP2",
-      "wq": "verified",
-      "games": [
-        "tob"
-      ],
-      "tp2n": "Restore Environmental & Positional Audio",
-      "pi": "s@-IS-Restore-EAX"
-    },
-    {
-      "n": "Enhance Positional Audio",
-      "cn": 221,
-      "wf": "infinitysounds",
-      "wp": "infinitysounds\\INFINITYSOUNDS.TP2",
-      "wq": "verified",
-      "games": [
-        "bg2ee",
-        "bgee",
-        "eet"
-      ],
-      "tp2n": "Enhance Positional Audio",
-      "pi": "s@-IS-Enhance-Pos-Audio"
-    },
-    {
       "n": "Restore & Tweak Soundsets",
       "cn": 230,
       "wf": "infinitysounds",
@@ -347,6 +322,32 @@
       ],
       "no": "Additional NPC voiceover restorations by Salk. Extends cn:265 with more recovered dialogue lines.",
       "tp2n": "Additional NPC Voiceovers (by Salk)"
+    },
+    {
+      "n": "Restore Environmental & Positional Audio",
+      "cn": 220,
+      "wf": "infinitysounds",
+      "wp": "infinitysounds\\INFINITYSOUNDS.TP2",
+      "wq": "verified",
+      "games": [
+        "tob"
+      ],
+      "tp2n": "Restore Environmental & Positional Audio",
+      "pi": "s@-IS-Restore-EAX"
+    },
+    {
+      "n": "Enhance Positional Audio",
+      "cn": 221,
+      "wf": "infinitysounds",
+      "wp": "infinitysounds\\INFINITYSOUNDS.TP2",
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet"
+      ],
+      "tp2n": "Enhance Positional Audio",
+      "pi": "s@-IS-Enhance-Pos-Audio"
     }
   ]
 }

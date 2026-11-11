@@ -11,7 +11,8 @@
     "es": 1,
     "de": 2,
     "fr": 3,
-    "ru": 4
+    "ru": 4,
+    "zh-cn": 5
   },
   "no": "Bioware NPC Flirt Packs If you installed Weimer's Solaufein mod, use the conflict components as you will",
   "dependencies": [

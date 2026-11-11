@@ -57,7 +57,7 @@
       "tp2n": "General AI Improvements",
       "no": "Redundant with SCS. Only useful for non-SCS installs. SCS AI overrides these changes",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -75,7 +75,7 @@
       "g": "qp_creature",
       "scn": "Creature & Area Improvements",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -90,7 +90,7 @@
       "g": "qp_creature",
       "scn": "Creature & Area Improvements",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -105,11 +105,11 @@
       "ss": 1,
       "n": "Creature Improvements: Boss Fights Only",
       "tp2n": "Boss Improvements Only",
-      "no": "Safest tactical option — only improves boss encounters. Less overlap with SCS",
+      "no": "Safest tactical option - only improves boss encounters. Less overlap with SCS",
       "g": "qp_creature",
       "scn": "Creature & Area Improvements",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -124,7 +124,7 @@
       "tp2n": "With Additional Random Encounters",
       "cn": 4,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 4,
       "wq": "verified",
       "games": [
@@ -144,7 +144,7 @@
       "tp2n": "Without Additonal Random Encounters",
       "cn": 401,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 401,
       "wq": "verified",
       "games": [
@@ -164,7 +164,7 @@
       "tp2n": "Additional Shadow Thieves Content",
       "cn": 5,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 5,
       "wq": "verified",
       "games": [
@@ -184,7 +184,7 @@
       "cn": 6,
       "ss": 1,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 6,
       "wq": "verified",
       "games": [
@@ -201,7 +201,7 @@
       "tp2n": "Extended Reynald Sequence",
       "cn": 7,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 7,
       "wq": "verified",
       "games": [
@@ -219,7 +219,7 @@
       "tp2n": "Intrigue In The Copper Coronet",
       "cn": 8,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 8,
       "wq": "verified",
       "games": [
@@ -237,7 +237,7 @@
       "tp2n": "Rahul Kanakia's Potion Quest",
       "cn": 9,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 9,
       "wq": "verified",
       "games": [
@@ -256,7 +256,7 @@
       "tp2n": "Revised Hell Trials",
       "no": "Adds neutral alignment paths and refined class-loss mechanics for Hell tests. Install Ascension BEFORE this. Some friction with SCS and BG2 Fixpack reported",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -272,7 +272,7 @@
       "no": "v Improved Oasis II reportedly the combat option bugs in EE",
       "cn": 11,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 11,
       "wq": "verified",
       "games": [
@@ -290,7 +290,7 @@
       "tp2n": "IO2 Dialogue Enhancement Only",
       "cn": 12,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 12,
       "wq": "verified",
       "games": [
@@ -309,7 +309,7 @@
       "tp2n": "Saving Sanik In Brynnlaw",
       "cn": 13,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 13,
       "wq": "verified",
       "games": [
@@ -327,7 +327,7 @@
       "tp2n": "Burglary Of The Bookkeeper",
       "cn": 14,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 14,
       "wq": "verified",
       "games": [
@@ -345,7 +345,7 @@
       "tp2n": "New Fate For The Dryads' Acorns",
       "cn": 15,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 15,
       "wq": "verified",
       "games": [
@@ -363,7 +363,7 @@
       "tp2n": "The Tragedy Of Besamen",
       "cn": 16,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 16,
       "wq": "verified",
       "games": [
@@ -382,7 +382,7 @@
       "tp2n": "Further Slaver Involvement",
       "no": "Evil RP options: sell orphan to Lehtinan, extort slavers. Clean, no known issues",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -397,7 +397,7 @@
       "tp2n": "Sending The Solamnic Knights Home",
       "cn": 18,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 18,
       "wq": "verified",
       "games": [
@@ -415,7 +415,7 @@
       "tp2n": "Nazariel The Lich",
       "cn": 19,
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wc": 19,
       "wq": "verified",
       "games": [
@@ -434,7 +434,7 @@
       "tp2n": "Reward Negotiation",
       "no": "Lets you choose specific items from Vithal reward. Minor tweak",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -450,7 +450,7 @@
       "tp2n": "Infernal Thievery",
       "no": "Bridge District encounter after skinner murders. Self-contained quest. Requires ToB/EE",
       "wf": "questpack",
-      "wp": "questpack\\setup-questpack.tp2",
+      "wp": "d0questpack\\setup-d0questpack.tp2",
       "wq": "exact",
       "games": [
         "bg2ee",
@@ -486,7 +486,7 @@
       "with": "Alternatives",
       "withId": 69,
       "severity": "partial",
-      "reason": "Both modify Shadow Thieves/Aran Linvail content, but Alternatives readme says 'tested with Quest Pack — install Quest Pack first.' Both use safe EXTEND/APPEND on shared area scripts (AR0300, AR0328, AR0329). Narrative overlap only (D0QP chapter 6 Aran assault may trigger on Alternatives path).",
+      "reason": "Both modify Shadow Thieves/Aran Linvail content, but Alternatives readme says 'tested with Quest Pack \u2014 install Quest Pack first.' Both use safe EXTEND/APPEND on shared area scripts (AR0300, AR0328, AR0329). Narrative overlap only (D0QP chapter 6 Aran assault may trigger on Alternatives path).",
       "myComps": "#5 Additional Shadow Thieves Content",
       "theirComps": "#0 Alternatives",
       "source": "Alternatives readme: 'tested on installations that included Quest Pack'; both use EXTEND_TOP/EXTEND_BOTTOM; consistent with Fade partial rating, 2026-03",

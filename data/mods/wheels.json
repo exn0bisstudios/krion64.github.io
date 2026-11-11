@@ -9,8 +9,7 @@
   "langs": {
     "en": 0,
     "fr": 1,
-    "zh-cn": 2,
-    "ru": 3
+    "zh-cn": 2
   },
   "no": "DavidW warns WoP may not fully work on EE. Install before SCS. FORBID: SCS component 5900 (Improved Abazigal). Recommended with Ascension.",
   "ic": "Ascension (balthazar issues, hopefully to be fixed in future releases)",

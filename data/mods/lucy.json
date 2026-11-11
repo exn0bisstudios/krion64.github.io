@@ -12,8 +12,7 @@
     "es": 3,
     "it": 4,
     "fr": 5,
-    "pl": 6,
-    "zh-cn": 7
+    "pl": 6
   },
   "no": "Adds Lucy, a baby wyvern companion, as a pseudo-NPC pet in BG2. She grows throughout the game and helps in combat.",
   "u": "https://github.com/SpellholdStudios/Lucy_the_Wyvern/releases",

@@ -13,7 +13,8 @@
     "pl": 3,
     "de": 4,
     "ru": 5,
-    "it": 6
+    "it": 6,
+    "zh-cn": 7
   },
   "no": "BG1 NPC Project Skips installing romances except those with BG2 continuations. Banters are fine, but the romances are of uneven quality; Shar-Teel's is particularly atrocious I've choosen the standard timer options for brevity, you can go and pick the faster or slower ones The Music Pack - installed after the BG1 NPC Project - adds appropriate music to some unvoiced dialog lines. Install the player-initiated dialog component of BG1 NPC Project after Mazzy MegaMod.. mod_installer: Romance components each recompile ~530 dialogue files (~8 min per component). Full install with all romances takes ~1-2 hours",
   "ic": "bg1ub:27 [Sarevok's Extended Diary]",

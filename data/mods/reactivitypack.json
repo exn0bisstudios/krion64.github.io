@@ -30,6 +30,10 @@
       "wf": "reactivitypack",
       "wp": "reactivitypack\\setup-reactivitypack.tp2",
       "wq": "verified",
+      "games": [
+        "bgee",
+        "eet"
+      ],
       "no": "Adds class/race flavour dialogue in BGEE areas."
     },
     {
@@ -38,6 +42,10 @@
       "wf": "reactivitypack",
       "wp": "reactivitypack\\setup-reactivitypack.tp2",
       "wq": "verified",
+      "games": [
+        "bgee",
+        "eet"
+      ],
       "no": "Humorous 4th-wall-breaking dialogue additions for BGEE."
     },
     {
@@ -46,6 +54,10 @@
       "wf": "reactivitypack",
       "wp": "reactivitypack\\setup-reactivitypack.tp2",
       "wq": "verified",
+      "games": [
+        "bg2ee",
+        "eet"
+      ],
       "no": "Adds class/race flavour dialogue in BG2EE areas."
     }
   ],

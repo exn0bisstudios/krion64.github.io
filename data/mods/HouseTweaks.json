@@ -308,6 +308,17 @@
       "scn": "House Tweaks: Backstab Tweaks"
     },
     {
+      "n": "House Tweaks: Warrior HLAs",
+      "tp2n": "House Tweaks: Warrior HLAs",
+      "no": "Arcane casters and shaman start at lv17 (wizard INT, sorc/bard/shaman CHA), divine casters (Ranger/paladin) start at lv14 (WIS) Incompatible with ToF's Revised ability score modifiers and SubtleD's St",
+      "cn": 13,
+      "wf": "HouseTweaks",
+      "wp": "HouseTweaks\\HouseTweaks.TP2",
+      "wc": 13,
+      "wq": "verified",
+      "tg": "adv"
+    },
+    {
       "n": "Constitution Bonuses for All Classes + Regeneration Changes",
       "tp2n": "Constitution Bonuses for All Classes + Regeneration Changes",
       "no": "ToF also does it. Artemius warns from using this due to animation wonkyness v Increased CON bonuses bonus increase every 1 CON point until 18, then every 2, until +7 for warrior (faster) and others (s",
@@ -354,17 +365,6 @@
       "wq": "verified",
       "tg": "pnp",
       "no": "Bonus spell slots based on INT (arcane), WIS (divine), and CHA (bard/sorcerer). Overwrites mxsplwis.2da."
-    },
-    {
-      "n": "House Tweaks: Warrior HLAs",
-      "tp2n": "House Tweaks: Warrior HLAs",
-      "no": "Arcane casters and shaman start at lv17 (wizard INT, sorc/bard/shaman CHA), divine casters (Ranger/paladin) start at lv14 (WIS) Incompatible with ToF's Revised ability score modifiers and SubtleD's St",
-      "cn": 13,
-      "wf": "HouseTweaks",
-      "wp": "HouseTweaks\\HouseTweaks.TP2",
-      "wc": 13,
-      "wq": "verified",
-      "tg": "adv"
     },
     {
       "n": "House Tweaks: Improved Dialogues (BG:EE)",
@@ -746,6 +746,10 @@
       "wf": "HouseTweaks",
       "wp": "HouseTweaks\\HouseTweaks.TP2",
       "wq": "exact",
+      "games": [
+        "bg2ee",
+        "eet"
+      ],
       "cn": 44,
       "n": "Thief Stronghold Tweak: Ask Jariel to pay quota",
       "tp2n": "Thief Stronghold Tweak: Ask Jariel to pay your quota in your stead",

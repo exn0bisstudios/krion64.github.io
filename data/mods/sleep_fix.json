@@ -39,7 +39,13 @@
       "wf": "sleep_fix",
       "wp": "sleep_fix\\sleep_fix.tp2",
       "wc": 0,
-      "wq": "lcc-github"
+      "wq": "lcc-github",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "iwdee"
+      ]
     }
   ],
   "gh": {

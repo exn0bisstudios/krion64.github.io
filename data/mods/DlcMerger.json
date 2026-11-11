@@ -10,7 +10,9 @@
     "de": 1,
     "pt-br": 2,
     "es": 3,
-    "zh-cn": 4
+    "zh-cn": 4,
+    "fr": 5,
+    "it": 6
   },
   "no": "Merges the Siege of Dragonspear DLC into the main game directory so mods can access and modify its content. Required before installing any SoD-touching mods.",
   "rq": "BG1 + SoD",

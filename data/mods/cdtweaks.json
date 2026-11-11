@@ -3596,7 +3596,7 @@
       ],
       "pi": "cd_tweaks_move_bg_npcs_all",
       "grn": "Content Changes",
-      "tp2n": "Move NPCs to Convenient Locations: Alora, Eldoth, Quayle, Shar-Teel, Tiax, and Viconia"
+      "tp2n": "Move NPCs to Convenient Locations: Ajantis, Alora, Eldoth, Quayle, Shar-Teel, Tiax, and Viconia"
     },
     {
       "n": "Move NPCs to Convenient Locations: Move Alora to Gullykin",
@@ -3815,7 +3815,7 @@
     },
     {
       "n": "NPCs Cannot Use Doors",
-      "pi": "ot_pass",
+      "pi": "cd_tweaks_I_am_a_servant_of_the_Secret_Fire_wielder_of_the_flame_of_Anor_You_cannot_pass_The_dark_fire_will_not_avail_you_flame_of_Udun_Go_back_to_the_Shadow_You_cannot_pass",
       "grn": "Content Changes",
       "wf": "cdtweaks",
       "wp": "cdtweaks\\setup-cdtweaks.tp2",
@@ -4835,7 +4835,7 @@
       "tg": "pnp",
       "g": "grandmastery",
       "no": "BG2-style grandmastery rules (original behavior). Modifies wspatck.2da.",
-      "tp2n": "BG2 grandmastery rules"
+      "tp2n": "BG2 grandmastery bonuses"
     },
     {
       "n": "Change Magically Created Weapons to Zero Weight",
@@ -7651,7 +7651,7 @@
       "tp2n": "NPCs are always neutral about reputation [Anomaly]"
     },
     {
-      "n": "Happy Patch: NPCs don't fight",
+      "n": "NPCs don't fight",
       "pi": "cd_tweaks_npcs_never_fight",
       "grn": "Convenience Tweaks/Cheats",
       "wf": "cdtweaks",
@@ -7672,12 +7672,11 @@
       ],
       "cn": 3123,
       "tg": "cau",
-      "g": "happy_patch",
       "no": "NPCs never fight each other over alignment conflicts.",
       "tp2n": "NPCs Don't Fight"
     },
     {
-      "n": "Happy Patch: Stop Haer'Dalis-Aerie romance",
+      "n": "Stop Haer'Dalis-Aerie romance from starting",
       "no": "blood, blood, blood!",
       "pi": "cd_tweaks_stop_hd_aerie_romance",
       "grn": "Convenience Tweaks/Cheats",
@@ -7693,11 +7692,10 @@
       ],
       "cn": 3124,
       "tg": "qol",
-      "g": "happy_patch",
       "tp2n": "Stop Haer'Dalis-Aerie Romance from Starting"
     },
     {
-      "n": "Happy Patch: Neutral happy at mid-range [Luiz]",
+      "n": "Neutral happy at mid-range [Luiz]",
       "pi": "cd_tweaks_happy_neutrals",
       "grn": "Convenience Tweaks/Cheats",
       "wf": "cdtweaks",
@@ -7721,7 +7719,6 @@
       ],
       "cn": 3125,
       "tg": "qol",
-      "g": "happy_patch",
       "no": "NPCs neutral and happy at mid-range reputation.",
       "tp2n": "Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]"
     },

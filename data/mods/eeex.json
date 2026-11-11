@@ -64,11 +64,29 @@
   "dl": "https://github.com/Bubb13/EEex/releases",
   "au": "Bubb",
   "langs": {
-    "en": 0
+    "en": 0,
+    "zh-cn": 1,
+    "es": 2
   },
   "co": [
     {
       "cn": 0,
+      "n": "Quick Menu Core",
+      "tp2n": "Quick Menu Core",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "iwdee"
+      ],
+      "wc": 0,
+      "no": ""
+    },
+    {
+      "cn": 1,
       "n": "EEex",
       "tp2n": "EEex",
       "wf": "eeex",
@@ -80,78 +98,101 @@
         "eet",
         "iwdee"
       ],
-      "wc": 0,
+      "wc": 1,
       "no": "Core EEex engine extension. Required by many mods (Skills and Abilities, HouseTweaks, etc.)."
     },
     {
-      "cn": 1,
+      "cn": 2,
+      "n": "Enable effect menu module (LShift to view creature spells)",
+      "tp2n": "Enable effect menu module: LShift-on-hover to view spells affecting creature",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 2,
+      "no": "Adds effect menu (hold LShift to view creature spell effects in-game).",
+      "grn": "Optional"
+    },
+    {
+      "cn": 3,
+      "n": "Enable empty container module (gray highlight)",
+      "tp2n": "Enable empty container module: Highlight empty containers in gray instead of cyan",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 3,
+      "no": "Highlights empty containers with gray tint for easier identification.",
+      "grn": "Optional"
+    },
+    {
+      "cn": 4,
+      "n": "Enable hotkey module (custom spell hotkeys)",
+      "tp2n": "Enable hotkey module: Edit override/B3Hotkey.lua to create advanced spell hotkeys",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 4,
+      "no": "Enables custom spell hotkey bindings.",
+      "grn": "Optional"
+    },
+    {
+      "cn": 5,
+      "n": "Enable scale module (customizable UI scaling)",
+      "tp2n": "Enable scale module: Customizable UI scaling factor",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 5,
+      "no": "Enables timer display module.",
+      "grn": "Optional"
+    },
+    {
+      "cn": 6,
+      "n": "Enable time step module (advance 1 tick on keypress)",
+      "tp2n": "Enable time step module: Advance 1 game tick on keypress",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 6,
+      "no": "Enables action bar configuration module.",
+      "grn": "Optional"
+    },
+    {
+      "cn": 7,
+      "n": "Enable timer module (modal/contingency/cooldown bars)",
+      "tp2n": "Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 7,
+      "no": "Enables worldscreen module for enhanced world map.",
+      "grn": "Optional"
+    },
+	    {
+      "cn": 9,
+      "n": "Enable attack info module: Show to-hit chances when hovering attack cursor over target ",
+      "tp2n": "Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 9,
+      "no": "Enable attack info module: Show to-hit chances when hovering attack cursor over target",
+      "grn": "Optional"
+    },
+	    {
+      "cn": 8,
       "n": "Experimental: Use LuaJIT (can help stuttering)",
       "tp2n": "Experimental - Use LuaJIT (can help stuttering)",
       "wf": "eeex",
       "wp": "eeex\\EEEX.TP2",
       "wq": "exact",
-      "wc": 1,
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "iwdee"
+      ],
+      "wc": 8,
       "no": "Experimental LuaJIT integration. Can help reduce stuttering on some systems."
-    },
-    {
-      "cn": 2,
-      "n": "Enable effect menu module (LShift to view creature spells)",
-      "tp2n": "Enable effect menu module - LShift-on-hover to view spells affecting creature",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 2,
-      "no": "Adds effect menu (hold LShift to view creature spell effects in-game)."
-    },
-    {
-      "cn": 3,
-      "n": "Enable empty container module (gray highlight)",
-      "tp2n": "Enable empty container module - Highlight empty containers in gray instead of cyan",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 3,
-      "no": "Highlights empty containers with gray tint for easier identification."
-    },
-    {
-      "cn": 4,
-      "n": "Enable hotkey module (custom spell hotkeys)",
-      "tp2n": "Enable hotkey module - Edit override/B3Hotkey.lua to create advanced spell hotkeys",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 4,
-      "no": "Enables custom spell hotkey bindings."
-    },
-    {
-      "cn": 5,
-      "n": "Enable scale module (customizable UI scaling)",
-      "tp2n": "Enable scale module - Customizable UI scaling factor",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 5,
-      "no": "Enables timer display module."
-    },
-    {
-      "cn": 6,
-      "n": "Enable time step module (advance 1 tick on keypress)",
-      "tp2n": "Enable time step module - Advance 1 game tick on keypress",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 6,
-      "no": "Enables action bar configuration module."
-    },
-    {
-      "cn": 7,
-      "n": "Enable timer module (modal/contingency/cooldown bars)",
-      "tp2n": "Enable timer module - Visual indicators for modal actions, contingencies, and spell/item cooldowns",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 7,
-      "no": "Enables worldscreen module for enhanced world map."
     }
   ]
 }

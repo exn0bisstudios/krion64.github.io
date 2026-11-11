@@ -72,7 +72,13 @@
       "wf": "LeUI",
       "wp": "LeUI\\LeUI.tp2",
       "wc": 0,
-      "wq": "verified"
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "sod"
+      ]
     },
     {
       "n": "lefreut's Enhanced UI - BG2 vanilla bams for spells",
@@ -80,7 +86,13 @@
       "wf": "LeUI",
       "wp": "LeUI\\LeUI.tp2",
       "wc": 1,
-      "wq": "verified"
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "sod"
+      ]
     },
     {
       "n": "lefreut's Enhanced UI - BG2 vanilla fonts for descriptions",
@@ -88,7 +100,13 @@
       "wf": "LeUI",
       "wp": "LeUI\\LeUI.tp2",
       "wc": 2,
-      "wq": "verified"
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "sod"
+      ]
     }
   ],
   "gh": {
