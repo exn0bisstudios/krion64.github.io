@@ -134,7 +134,7 @@ def load_spl_refs():
     Returns a set; if the backup path isn't available, returns an empty set
     (in which case this script fills sv on every spell — its original behavior)."""
     import struct
-    KEY = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition\chitin.key"
+    KEY = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition\chitin.key"
     if not os.path.exists(KEY):
         return set()
     refs = set()

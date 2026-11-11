@@ -49,7 +49,7 @@ from audit_tp2_drift import (  # noqa
 
 ROOT = Path(__file__).resolve().parents[1]
 MODS_DIR = ROOT / "data" / "mods"
-EXTRACTED = Path("F:/BGMods/Extracted")
+EXTRACTED = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 
 
 # --- Regexes ---

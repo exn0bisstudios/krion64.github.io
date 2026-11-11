@@ -16,7 +16,7 @@ Usage:
 
 import struct, json, os, sys
 
-BG2EE = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 KEY_PATH = os.path.join(BG2EE, "chitin.key")
 TLK_PATH = os.path.join(BG2EE, "lang", "en_US", "dialog.tlk")
 PROJ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))

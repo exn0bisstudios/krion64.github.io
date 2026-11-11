@@ -79,7 +79,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "F:/BGMods/eet-mod-forge"))
+REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "C:/- GAMES/- UTILS/BGEE Utils/Infinity Mod Forge/krion64.github.io"))
 MODS_DIR = REPO_ROOT / "data" / "mods"
 OUTPUT_PATH = REPO_ROOT / "scripts" / "grade_conflicts.result.json"
 

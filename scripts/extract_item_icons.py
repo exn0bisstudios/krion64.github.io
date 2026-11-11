@@ -14,7 +14,7 @@ import struct, json, os, sys, zlib
 from PIL import Image
 
 # ── Paths ────────────────────────────────────────────────────────────────────
-BG2EE = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 KEY_PATH = os.path.join(BG2EE, "chitin.key")
 PROJ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 ICONS_DIR = os.path.join(PROJ, "items", "icons")

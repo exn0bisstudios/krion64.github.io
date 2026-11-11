@@ -6,13 +6,13 @@
  * and generates spLv data per mod.
  *
  * Usage: node tools/scan_spell_ids.js [extractedDir]
- * Default extractedDir: F:\BGMods\Extracted
+ * Default extractedDir: C:\- GAMES\- UTILS\BGEE Utils\- z DOWNLOADS
  */
 
 const fs = require('fs');
 const path = require('path');
 
-const EXTRACTED_DIR = process.argv[2] || 'F:\\BGMods\\Extracted';
+const EXTRACTED_DIR = process.argv[2] || 'C:\\- GAMES\\- UTILS\\BGEE Utils\\- z DOWNLOADS';
 const MODS_DIR = path.join(__dirname, '..', 'data', 'mods');
 
 // Parse a 4-digit spell ID into type + level

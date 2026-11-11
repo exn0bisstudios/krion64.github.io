@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Extract portrait BMP files from mods in F:/BGMods/Extracted/ and convert
+Extract portrait BMP files from mods in C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS/ and convert
 them to PNG for use in infinity-mod-forge's portrait system.
 
 Usage:
@@ -14,7 +14,7 @@ import argparse
 import struct
 from pathlib import Path
 
-EXTRACTED_DIR = Path("F:/BGMods/Extracted")
+EXTRACTED_DIR = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 ROOT = Path(__file__).resolve().parents[1]
 MODS_DIR = ROOT / "data" / "mods"
 PORTRAITS_DIR = ROOT / "portraits"

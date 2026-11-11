@@ -6,7 +6,7 @@ of hand-editing, the array order drifts from the canonical tp2 BEGIN order.
 Users expect the browse list to show components in install-prompt order, not
 in whatever order we happened to edit them.
 
-Fix: for each mod with a tp2 on disk at F:/BGMods/Extracted/, parse the tp2's
+Fix: for each mod with a tp2 on disk at C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS/, parse the tp2's
 BEGIN blocks to get canonical cn ordering, then sort mod['co'] to match.
 
 Rules:

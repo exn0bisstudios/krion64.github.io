@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MODS = ROOT / "data" / "mods"
-EXTRACTED = Path("F:/BGMods/Extracted")
+EXTRACTED = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 
 # Priority tra filenames — when multiple tra files declare the same @NNNN,
 # these take precedence (they hold installer labels, not gameplay strings).

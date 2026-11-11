@@ -24,7 +24,7 @@ from audit_tp2_drift import (  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 MODS_DIR = ROOT / "data" / "mods"
-EXTRACTED = Path("F:/BGMods/Extracted")
+EXTRACTED = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 CATALOG = json.loads((MODS_DIR / "_catalog.json").read_text(encoding="utf-8"))
 
 

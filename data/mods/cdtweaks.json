@@ -3580,7 +3580,7 @@
       "tp2n": "Move NPCs from Baldur's Gate"
     },
     {
-      "n": "Move NPCs to Convenient Locations: Alora, Eldoth, Quayle, Shar-Teel, Tiax, and Viconia",
+      "n": "Move NPCs to Convenient Locations: All NPCs",
       "cn": 1257,
       "wf": "cdtweaks",
       "wp": "cdtweaks\\setup-cdtweaks.tp2",
@@ -3597,6 +3597,25 @@
       "pi": "cd_tweaks_move_bg_npcs_all",
       "grn": "Content Changes",
       "tp2n": "Move NPCs to Convenient Locations: Ajantis, Alora, Eldoth, Quayle, Shar-Teel, Tiax, and Viconia"
+    },
+    {
+      "n": "Move NPCs to Convenient Locations: Ajantis",
+      "cn": 1258,
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wq": "verified",
+      "games": [
+        "bg1",
+        "bgee",
+        "bgt",
+        "eet",
+        "totsc",
+        "tutu",
+        "tutu_totsc"
+      ],
+      "pi": "cd_tweaks_move_bg_npcs_ajantis",
+      "grn": "Content Changes",
+      "tp2n": "Move NPCs to Convenient Locations: Move Ajantis to the Friendly Arm Inn"
     },
     {
       "n": "Move NPCs to Convenient Locations: Move Alora to Gullykin",
@@ -4800,6 +4819,78 @@
       "tg": "adv",
       "g": "grandmastery",
       "tp2n": "True grandmastery [Baldurdash]"
+    },
+    {
+      "n": "Grandmastery: IWD grandmastery bonuses ",
+      "pi": "cd_tweaks_grandmastery_bonus_iwd",
+      "scn": "Change Grandmastery Bonuses",
+      "grn": "Rule Changes",
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\SETUP-CDTWEAKS.TP2",
+      "wq": "known_folder",
+      "games": [
+        "bg1",
+        "bg2",
+        "bg2ee",
+        "bgee",
+        "bgt",
+        "ca",
+        "eet",
+        "how",
+        "iwd",
+        "iwd_in_bg2",
+        "iwdee",
+        "pst",
+        "pstee",
+        "soa",
+        "sod",
+        "tob",
+        "totlm",
+        "totsc",
+        "tutu",
+        "tutu_totsc"
+      ],
+      "cn": 2213,
+      "tg": "pnp",
+      "g": "grandmastery",
+      "no": "IWD-style grandmastery rules. Modifies wspatck.2da.",
+      "tp2n": "IWD grandmastery bonuses"
+    },
+    {
+      "n": "Grandmastery: EE-style grandmastery bonuses",
+      "pi": "cd_tweaks_grandmastery_bonus_bg2ee",
+      "scn": "Change Grandmastery Bonuses",
+      "grn": "Rule Changes",
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\SETUP-CDTWEAKS.TP2",
+      "wq": "known_folder",
+      "games": [
+        "bg1",
+        "bg2",
+        "bg2ee",
+        "bgee",
+        "bgt",
+        "ca",
+        "eet",
+        "how",
+        "iwd",
+        "iwd_in_bg2",
+        "iwdee",
+        "pst",
+        "pstee",
+        "soa",
+        "sod",
+        "tob",
+        "totlm",
+        "totsc",
+        "tutu",
+        "tutu_totsc"
+      ],
+      "cn": 2212,
+      "tg": "pnp",
+      "g": "grandmastery",
+      "no": "EE-style grandmastery rules. Modifies wspatck.2da.",
+      "tp2n": "EE-style grandmastery bonuses"
     },
     {
       "n": "Grandmastery: BG2 Grandmastery Rules",
@@ -7012,6 +7103,41 @@
       "pi": "cd_tweaks_disable_stealing_at_fences",
       "grn": "Rule Changes",
       "tp2n": "Disable stealing at fences [Luke]"
+    },
+    {
+      "n": "Standardize buying/selling markups for all stores",
+      "cn": 2770,
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "iwdee"
+      ],
+      "pi": "cd_tweaks_standardize_buying_selling_markups_for_all_stores",
+      "grn": "Rule Changes",
+      "tp2n": "Standardize buying/selling markups for all stores [Luke]"
+    },
+    {
+      "n": "PnP free action",
+      "cn": 2780,
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wq": "verified",
+      "games": [
+        "iwd2",
+        "pst",
+        "pstee",
+        "iwdee",
+        "iwd",
+        "how",
+        "totlm"
+      ],
+      "pi": "cd_tweaks_pnp_free_action",
+      "grn": "Rule Changes",
+      "tp2n": "P&P Free Action"
     },
     {
       "n": "Max HP at Level One",
@@ -9737,6 +9863,42 @@
       "tp2n": "\"Bank\" XP when dualing a character [Luke (EEex)]"
     },
     {
+      "n": "Import all items except Voidhammer +3",
+      "pi": "cd_tweaks_import_sod_all_but_voidhammer",
+      "grn": "Always Import SoD Items",
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wc": 3530,
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "eet"
+      ],
+      "cn": 3530,
+      "tg": "qol",
+      "g": "Always Import SoD Items",
+      "scn": "Always Import SoD Items",
+      "tp2n": "Import all items except Voidhammer +3"
+    },
+    {
+      "n": "Import all items except Voidsword +3",
+      "pi": "cd_tweaks_import_sod_all_but_voidsword",
+      "grn": "Always Import SoD Items",
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wc": 3531,
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "eet"
+      ],
+      "cn": 3531,
+      "tg": "qol",
+      "g": "Always Import SoD Items",
+      "scn": "Always Import SoD Items",
+      "tp2n": "Import all items except Voidsword +3"
+    },
+    {
       "n": "Adjust Evil Joinable NPC Reaction Rolls",
       "no": "Tweaks Anthology - Joinable NPC Tweaks",
       "pi": "cd_tweaks_adjust_evil_npc_reactions",
@@ -11333,6 +11495,25 @@
       "tg": "pnp",
       "pl": "win",
       "tp2n": "Opportunist Class Feat for Chaotic-Aligned Rogues [Luke]"
+    },
+    {
+      "n": "Quick To Master Racial Feat for Humans [Luke]",
+      "pi": "cd_tweaks_nwn_opportunist",
+      "grn": "NWN-Style Feats",
+      "wf": "cdtweaks",
+      "wp": "cdtweaks\\setup-cdtweaks.tp2",
+      "wc": 6360,
+      "wq": "verified",
+      "games": [
+        "bg2ee",
+        "bgee",
+        "eet",
+        "iwdee"
+      ],
+      "cn": 6360,
+      "tg": "pnp",
+      "pl": "win",
+      "tp2n": "Quick To Master Racial Feat for Humans [Luke]"
     },
     {
       "n": "Hide Visual Effects from Invisible Enemies [Luke]",

@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 cat = json.loads((ROOT / 'data/mods/_catalog.json').read_text(encoding='utf-8'))
-EXTRACTED = Path('F:/BGMods/Extracted')
+EXTRACTED = Path('C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS')
 
 high_priority = [
     'stratagems', '1pp', 'item_rev', 'spell_rev', 'aTweaks', 'BG1NPC',

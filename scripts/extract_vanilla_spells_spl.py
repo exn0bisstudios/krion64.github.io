@@ -18,7 +18,7 @@ from collections import OrderedDict, Counter
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPELLS_PATH = os.path.join(ROOT, "data", "spells-vanilla.json")
 
-BG2EE = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 KEY_PATH = os.path.join(BG2EE, "chitin.key")
 DATA_DIR = os.path.join(BG2EE, "data")
 

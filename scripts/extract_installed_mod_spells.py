@@ -38,12 +38,12 @@ except Exception:
 PROJ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 ICONS_DIR = os.path.join(PROJ, "spells", "icons")
 
-INSTALL_PATH = r"F:\SteamLibrary\steamapps\common\Baldur's Gate II Enhanced Edition"
+INSTALL_PATH = r"C:\- GAMES\Big Games\BGEE\Baldur's Gate II Enhanced Edition"
 OVERRIDE_DIR = os.path.join(INSTALL_PATH, "override")
 TLK_PATH = os.path.join(INSTALL_PATH, "lang", "en_US", "dialog.tlk")
 
 # Vanilla BIF fallback (for BAMs not in override)
-BG2EE_BACKUP = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE_BACKUP = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 KEY_PATH = os.path.join(BG2EE_BACKUP, "chitin.key")
 RES_TYPE_BAM = 0x03E8
 

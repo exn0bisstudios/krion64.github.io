@@ -168,7 +168,7 @@ def parse_rng(desc: str, aoe: str) -> str:
 def load_spl_refs():
     """Refs that the SPL extractor covers. Skip them here to avoid clobbering."""
     import struct
-    KEY = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition\chitin.key"
+    KEY = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition\chitin.key"
     if not os.path.exists(KEY):
         return set()
     refs = set()

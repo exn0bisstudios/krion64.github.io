@@ -3477,8 +3477,7 @@
     "desc": "5%+5%/5 levels DR (max 25%). 3+1/level rounds.",
     "icon": "spells/icons/SPPR101.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -3498,8 +3497,7 @@
     "desc": "+1 THAC0/morale. 6 rounds.",
     "icon": "spells/icons/SPPR102.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -3519,8 +3517,7 @@
     "desc": "Target sleeps 1 round. Save negates.",
     "icon": "spells/icons/SPPR103.png",
     "sph": [
-      "charm",
-      "law"
+      "charm"
     ],
     "cls": [
       "cleric",
@@ -3607,8 +3604,7 @@
     "desc": "3 +1 sling bullets.",
     "icon": "spells/icons/SPPR107.png",
     "sph": [
-      "combat",
-      "elemental"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -3627,8 +3623,7 @@
     "desc": "+2 AC/saves vs evil. 2 rounds/level.",
     "icon": "spells/icons/SPPR108.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -3648,8 +3643,7 @@
     "desc": "Removes/prevents fear. 1 hour.",
     "icon": "spells/icons/SPPR109.png",
     "sph": [
-      "protection",
-      "charm"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -3669,8 +3663,7 @@
     "desc": "Enemies ignore caster. 2+1/level rounds.",
     "icon": "spells/icons/SPPR110.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -3689,8 +3682,7 @@
     "desc": "+1 staff, 2d4 damage. 4+1/level rounds.",
     "icon": "spells/icons/SPPR111.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "druid",
@@ -3711,8 +3703,7 @@
     "desc": "-2 THAC0/saves. 1 turn.",
     "icon": "spells/icons/SPPR112.png",
     "sph": [
-      "combat",
-      "charm"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -3733,8 +3724,7 @@
     "desc": "1d6+1/level fire. Save or blind 3 rounds.",
     "icon": "spells/icons/SPPR113.png",
     "sph": [
-      "sun",
-      "elemental"
+      "sun"
     ],
     "cls": [
       "cleric",
@@ -3756,8 +3746,7 @@
     "icon": "spells/icons/SPPR201.png",
     "sph": [
       "combat",
-      "healing",
-      "war"
+      "healing"
     ],
     "cls": [
       "cleric",
@@ -3777,8 +3766,7 @@
     "desc": "AC bonus. 4+1/level rounds.",
     "icon": "spells/icons/SPPR202.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "druid",
@@ -3799,8 +3787,7 @@
     "desc": "+1/-1 THAC0/dmg/saves. While chanting.",
     "icon": "spells/icons/SPPR203.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -3840,8 +3827,7 @@
     "desc": "+1/3 levels STR/DEX/CON. 1 turn.",
     "icon": "spells/icons/SPPR205.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -3885,8 +3871,7 @@
     "icon": "spells/icons/SPPR207.png",
     "sph": [
       "combat",
-      "elemental",
-      "war"
+      "elemental"
     ],
     "cls": [
       "druid",
@@ -3928,8 +3913,7 @@
     "desc": "Paralyzes humanoid 10 rounds. Save negates.",
     "icon": "spells/icons/SPPR209.png",
     "sph": [
-      "charm",
-      "law"
+      "charm"
     ],
     "cls": [
       "cleric"
@@ -3994,8 +3978,7 @@
     "desc": "Silences area. 2 rounds/level. Save negates.",
     "icon": "spells/icons/SPPR212.png",
     "sph": [
-      "combat",
-      "guardian"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -4037,8 +4020,7 @@
     "desc": "+1 thrown hammer (+3 vs undead). 4+1/level rounds.",
     "icon": "spells/icons/SPPR214.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -4077,8 +4059,7 @@
     "desc": "2d8+1d8/level electrical. Outdoors.",
     "icon": "spells/icons/SPPR302.png",
     "sph": [
-      "elemental",
-      "combat"
+      "elemental"
     ],
     "cls": [
       "druid",
@@ -4145,8 +4126,7 @@
     "desc": "50% remove magic +/- level.",
     "icon": "spells/icons/SPPR305.png",
     "sph": [
-      "protection",
-      "law"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4170,8 +4150,7 @@
     "icon": "spells/icons/SPPR306.png",
     "sph": [
       "combat",
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -4230,8 +4209,7 @@
     "desc": "80% spell failure 2 rounds/level. Save negates.",
     "icon": "spells/icons/SPPR309.png",
     "sph": [
-      "protection",
-      "combat"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -4274,8 +4252,7 @@
     "desc": "Removes curses.",
     "icon": "spells/icons/SPPR311.png",
     "sph": [
-      "protection",
-      "law"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4316,8 +4293,7 @@
     "desc": "Confuses 1 round/level. Save negates.",
     "icon": "spells/icons/SPPR313.png",
     "sph": [
-      "charm",
-      "law"
+      "charm"
     ],
     "cls": [
       "cleric"
@@ -4336,8 +4312,7 @@
     "desc": "All allies STR 18/75. 1 turn.",
     "icon": "spells/icons/SPPR314.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -4438,8 +4413,7 @@
     "desc": "17 damage. Touch.",
     "icon": "spells/icons/SPPR403.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -4499,8 +4473,7 @@
     "desc": "Immune to death magic. 1 turn/level.",
     "icon": "spells/icons/SPPR406.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4521,8 +4494,7 @@
     "icon": "spells/icons/SPPR407.png",
     "sph": [
       "protection",
-      "combat",
-      "guardian"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -4561,8 +4533,7 @@
     "desc": "Immune to Hold/Web/Slow. 1 turn/level.",
     "icon": "spells/icons/SPPR409.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4584,8 +4555,7 @@
     "desc": "Fighter THAC0, +1 dmg. 1 round/level.",
     "icon": "spells/icons/SPPR410.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric",
@@ -4644,8 +4614,7 @@
     "desc": "Immune to drain. 5 rounds/level.",
     "icon": "spells/icons/SPPR413.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4686,8 +4655,7 @@
     "desc": "1 dmg/sec 20 sec. Save negates.",
     "icon": "spells/icons/SPPR415.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "druid",
@@ -4707,8 +4675,7 @@
     "desc": "+2 AC/saves vs evil for allies. 1 turn.",
     "icon": "spells/icons/SPPR416.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric",
@@ -4772,8 +4739,7 @@
     "icon": "spells/icons/SPPR502.png",
     "sph": [
       "protection",
-      "chaos",
-      "law"
+      "chaos"
     ],
     "cls": [
       "cleric"
@@ -4814,8 +4780,7 @@
     "icon": "spells/icons/SPPR504.png",
     "sph": [
       "combat",
-      "elemental",
-      "sun"
+      "elemental"
     ],
     "cls": [
       "cleric",
@@ -4836,8 +4801,7 @@
     "desc": "Area sleep 1 round/level. Save negates.",
     "icon": "spells/icons/SPPR505.png",
     "sph": [
-      "charm",
-      "law"
+      "charm"
     ],
     "cls": [
       "cleric"
@@ -4876,8 +4840,7 @@
     "desc": "Absorbs 1 hit/2 levels (max 7). 12 hours.",
     "icon": "spells/icons/SPPR507.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "druid",
@@ -4897,8 +4860,7 @@
     "desc": "MR = 2%/level. 4 rounds.",
     "icon": "spells/icons/SPPR508.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -4955,8 +4917,7 @@
     "desc": "Max HP, STR 25, +1 dmg/level.",
     "icon": "spells/icons/SPPR511.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -4975,8 +4936,7 @@
     "desc": "Save vs Death or die. If saved 2d8+1.",
     "icon": "spells/icons/SPPR512.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5016,8 +4976,7 @@
     "desc": "+1 THAC0/dmg per 3 levels. 1 turn.",
     "icon": "spells/icons/SPPR514.png",
     "sph": [
-      "combat",
-      "war"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5056,8 +5015,7 @@
     "desc": "Immune to one school. 1 turn/level.",
     "icon": "spells/icons/SPPR516.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -5116,8 +5074,7 @@
     "icon": "spells/icons/SPPR603.png",
     "sph": [
       "combat",
-      "protection",
-      "war"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -5198,8 +5155,7 @@
     "desc": "1 dmg/sec + Slow. No save. 1 turn.",
     "icon": "spells/icons/SPPR607.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5239,8 +5195,7 @@
     "icon": "spells/icons/SPPR609.png",
     "sph": [
       "elemental",
-      "combat",
-      "creation"
+      "combat"
     ],
     "cls": [
       "druid"
@@ -5259,8 +5214,7 @@
     "desc": "Reduces to 1 HP. Save negates.",
     "icon": "spells/icons/SPPR610.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5298,8 +5252,7 @@
     "desc": "Reflects ranged attacks. 9 rounds.",
     "icon": "spells/icons/SPPR612.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -5318,8 +5271,7 @@
     "desc": "Blinds + 6d6 fire to undead.",
     "icon": "spells/icons/SPPR613.png",
     "sph": [
-      "sun",
-      "destruction"
+      "sun"
     ],
     "cls": [
       "cleric"
@@ -5357,8 +5309,7 @@
     "desc": "Area confusion. Save negates.",
     "icon": "spells/icons/SPPR701.png",
     "sph": [
-      "chaos",
-      "charm"
+      "chaos"
     ],
     "cls": [
       "cleric"
@@ -5417,8 +5368,7 @@
     "desc": "50% stun+damage 2 rounds. No save.",
     "icon": "spells/icons/SPPR704.png",
     "sph": [
-      "elemental",
-      "destruction"
+      "elemental"
     ],
     "cls": [
       "druid"
@@ -5495,9 +5445,7 @@
     "desc": "Evil: slow/stun/death by level. No save.",
     "icon": "spells/icons/SPPR708.png",
     "sph": [
-      "combat",
-      "war",
-      "law"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5573,8 +5521,7 @@
     "desc": "Party immune drain/death. 1 turn.",
     "icon": "spells/icons/SPPR712.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"
@@ -5613,8 +5560,7 @@
     "desc": "Kills <60 HP. Save negates.",
     "icon": "spells/icons/SPPR714.png",
     "sph": [
-      "summoning",
-      "destruction"
+      "summoning"
     ],
     "cls": [
       "cleric"
@@ -5671,8 +5617,7 @@
     "desc": "Save or die. If saved 2d8+1.",
     "icon": "spells/icons/SPPR717.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5691,8 +5636,7 @@
     "desc": "Drains 2 levels. Save negates.",
     "icon": "spells/icons/SPPR718.png",
     "sph": [
-      "combat",
-      "destruction"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5711,9 +5655,7 @@
     "desc": "Good: slow/stun/death by level. No save.",
     "icon": "spells/icons/SPPR719.png",
     "sph": [
-      "combat",
-      "war",
-      "chaos"
+      "combat"
     ],
     "cls": [
       "cleric"
@@ -5732,8 +5674,7 @@
     "desc": "Immune to mental attacks. 1 turn.",
     "icon": "spells/icons/SPPR720.png",
     "sph": [
-      "protection",
-      "guardian"
+      "protection"
     ],
     "cls": [
       "cleric"

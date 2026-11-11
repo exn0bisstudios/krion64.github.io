@@ -19,7 +19,7 @@ import struct, json, os, sys, re
 PROJ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 REPORT_PATH = os.path.join(PROJ, "data", "item_scan_report.json")
 MODS_DIR = os.path.join(PROJ, "data", "mods")
-BG2EE = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 TLK_PATH = os.path.join(BG2EE, "lang", "en_US", "dialog.tlk")
 
 sys.path.insert(0, os.path.dirname(__file__))

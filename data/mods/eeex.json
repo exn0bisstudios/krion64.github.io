@@ -102,6 +102,17 @@
       "no": "Core EEex engine extension. Required by many mods (Skills and Abilities, HouseTweaks, etc.)."
     },
     {
+      "cn": 9,
+      "n": "Enable attack info module: Show to-hit chances when hovering attack cursor over target ",
+      "tp2n": "Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns",
+      "wf": "eeex",
+      "wp": "eeex\\EEEX.TP2",
+      "wq": "exact",
+      "wc": 9,
+      "no": "Enable attack info module: Show to-hit chances when hovering attack cursor over target",
+      "grn": "Optional"
+    },
+    {
       "cn": 2,
       "n": "Enable effect menu module (LShift to view creature spells)",
       "tp2n": "Enable effect menu module: LShift-on-hover to view spells affecting creature",
@@ -167,18 +178,7 @@
       "no": "Enables worldscreen module for enhanced world map.",
       "grn": "Optional"
     },
-	    {
-      "cn": 9,
-      "n": "Enable attack info module: Show to-hit chances when hovering attack cursor over target ",
-      "tp2n": "Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns",
-      "wf": "eeex",
-      "wp": "eeex\\EEEX.TP2",
-      "wq": "exact",
-      "wc": 9,
-      "no": "Enable attack info module: Show to-hit chances when hovering attack cursor over target",
-      "grn": "Optional"
-    },
-	    {
+    {
       "cn": 8,
       "n": "Experimental: Use LuaJIT (can help stuttering)",
       "tp2n": "Experimental - Use LuaJIT (can help stuttering)",

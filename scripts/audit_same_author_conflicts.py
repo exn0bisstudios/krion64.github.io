@@ -42,7 +42,7 @@ from pathlib import Path
 
 # Forge repo root; overridable via env so the script can run from any cwd
 # (e.g. from a worktree).
-REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "F:/BGMods/eet-mod-forge"))
+REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "C:/- GAMES/- UTILS/BGEE Utils/Infinity Mod Forge/krion64.github.io"))
 MODS_DIR = REPO_ROOT / "data" / "mods"
 
 

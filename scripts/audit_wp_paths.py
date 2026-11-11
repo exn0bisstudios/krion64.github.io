@@ -10,7 +10,7 @@ failure looks like a silent skip rather than a fatal error.
 
 Usage:
     python audit_wp_paths.py [extracted_dir]
-    python audit_wp_paths.py F:/BGMods/Extracted --fix    # rewrite with the correct setup-*.tp2 name
+    python audit_wp_paths.py C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS --fix    # rewrite with the correct setup-*.tp2 name
 
 Output: one line per bad `wp` with suggested replacement. Exit code 1 if any
 found (so this can gate CI).
@@ -127,8 +127,8 @@ def audit_file(path: Path, mod_root: Path):
 def main():
     parser = argparse.ArgumentParser(description="Audit wp paths in mod data")
     parser.add_argument("extracted_dir", nargs="?",
-                        default="F:/BGMods/Extracted",
-                        help="Extracted mod root (default F:/BGMods/Extracted)")
+                        default="C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS",
+                        help="Extracted mod root (default C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS)")
     parser.add_argument("--fix", action="store_true",
                         help="Rewrite bad wp entries with the suggested value")
     parser.add_argument("--only", metavar="MOD",

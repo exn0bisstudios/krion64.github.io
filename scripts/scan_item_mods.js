@@ -14,7 +14,7 @@ const fs = require('fs');
 const path = require('path');
 const { readMods } = require('./lib/mods-io');
 
-const EXTRACTED = 'F:\\BGMods\\Extracted';
+const EXTRACTED = 'C:\\- GAMES\\- UTILS\\BGEE Utils\\- z DOWNLOADS';
 const REPORT_PATH = path.join(__dirname, '..', 'data', 'item_scan_report.json');
 
 // ── Item type inference from resref prefix ──────────────────────────────────

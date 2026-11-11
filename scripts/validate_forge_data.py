@@ -81,7 +81,7 @@ import os
 import sys
 from pathlib import Path
 
-REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "F:/BGMods/eet-mod-forge"))
+REPO_ROOT = Path(os.environ.get("FORGE_ROOT", "C:/- GAMES/- UTILS/BGEE Utils/Infinity Mod Forge/krion64.github.io"))
 MODS_DIR = REPO_ROOT / "data" / "mods"
 
 VALID_EVIDENCE_LEVELS = {"observed", "mechanism-verified", "speculative"}

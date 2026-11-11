@@ -17,7 +17,7 @@ import struct, json, os, sys, re, glob
 PROJ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 REPORT_PATH = os.path.join(PROJ, "data", "item_scan_report.json")
 MODS_DIR = os.path.join(PROJ, "data", "mods")
-EXTRACTED = r"F:\BGMods\Extracted"
+EXTRACTED = r"C:\- GAMES\- UTILS\BGEE Utils\- z DOWNLOADS"
 
 ITEM_CATEGORIES = {
     0: "misc", 1: "amulet", 2: "armor", 3: "belt", 4: "boots", 5: "arrow",
@@ -136,7 +136,7 @@ def load_vanilla_tlk():
     global _TLK_CACHE
     if _TLK_CACHE is not None:
         return _TLK_CACHE
-    tlk_path = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition\lang\en_US\dialog.tlk"
+    tlk_path = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition\lang\en_US\dialog.tlk"
     out = {}
     try:
         with open(tlk_path, "rb") as f:

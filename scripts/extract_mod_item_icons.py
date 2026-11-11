@@ -16,7 +16,7 @@ REPORT_PATH = os.path.join(PROJ, "data", "item_scan_report.json")
 ICONS_DIR = os.path.join(PROJ, "items", "icons")
 
 # Also check vanilla BIF for shared BAMs
-BG2EE = r"F:\BGMods\Backups\Baldur's Gate II Enhanced Edition"
+BG2EE = r"C:\- GAMES\- UTILS\BGEE Utils\- Backup\Baldur's Gate II Enhanced Edition"
 KEY_PATH = os.path.join(BG2EE, "chitin.key")
 
 RES_TYPE_BAM = 0x03E8

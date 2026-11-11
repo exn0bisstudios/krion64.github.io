@@ -4,7 +4,7 @@ import json, os, re, sys, glob
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
-EXTRACTED = Path(r"F:/BGMods/Extracted")
+EXTRACTED = Path(r"C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 
 # Target mods to audit
 TARGETS = {
@@ -22,7 +22,7 @@ TARGETS = {
     },
     "cdtweaks": {
         "json": REPO / "data/mods/cdtweaks.json",
-        "tp2": EXTRACTED / "Tweaks Anthology/cdtweaks/setup-cdtweaks.tp2",
+        "tp2": EXTRACTED / "Tweaks-Anthology-master/cdtweaks/setup-cdtweaks.tp2",
         "cns": [30, 40, 60, 90, 110, 130, 150, 160, 181, 220, 240, 1020, 1030,
                 1060, 1070, 1075, 1101, 1254, 1255, 1330, 1340, 1341, 1343,
                 1344, 1345, 1354, 2010, 2020, 2035, 2080, 2120, 2140, 2164,
@@ -38,7 +38,7 @@ TARGETS = {
     },
     "stratagems": {
         "json": REPO / "data/mods/stratagems.json",
-        "tp2": EXTRACTED / "Sword Coast Stratagems/stratagems/setup-stratagems.tp2",
+        "tp2": EXTRACTED / "SwordCoastStratagems-master/stratagems/setup-stratagems.tp2",
         "cns": [18, 23, 24, 4135, 4140, 4145, 4150, 4160, 4170],
     },
     "SkitiaRomanceTweak": {

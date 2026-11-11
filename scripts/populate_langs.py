@@ -14,7 +14,7 @@ import sys
 import argparse
 from pathlib import Path
 
-EXTRACTED_DIR = Path("F:/BGMods/Extracted")
+EXTRACTED_DIR = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 MODS_DIR = Path(__file__).resolve().parents[1] / "data" / "mods"
 
 # Map WeiDU language folder names to ISO 639-1 codes

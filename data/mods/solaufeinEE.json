@@ -8,65 +8,80 @@
   "a": "Weimer, celestialfury",
   "v": "2.1.11",
   "sum": "A fully modernized, modular, EE/EET-compatible rebuild of Weimer's classic Solaufein Romance mod, with a content-aligned 5-component layout and working bark playback.",
-  "tags": ["npc"],
-  "ph": ["SoA", "ToB"],
+  "tags": [
+    "npc"
+  ],
+  "ph": [
+    "SoA",
+    "ToB"
+  ],
   "no": "Install after ValenEE for the cross-mod interjections in Component 10. Must be installed before eet_end, cdtweaks, and stratagems.",
   "ord": 860,
   "ic": "Hard conflict with legacy (non-EE) Solaufein Romance mods. Install after ValenEE for cross-mod interjections.",
   "co": [
     {
       "n": "Solaufein: Core NPC + SoA Content",
-      "tp2n": "Solaufein: Core NPC + SoA Content",
+      "tp2n": "",
       "cn": 10,
       "wf": "solaufeinEE",
       "wp": "solaufeinEE\\setup-solaufeinEE.tp2",
       "wc": 10,
       "wq": "exact",
-      "tg": ["rec"],
+      "tg": [
+        "rec"
+      ],
       "no": "Required. Joinable NPC plus spawn triggers, ToB fate spirit summon, core dialogue, and SoA-side content. Includes explicit CRE field writes, full 12-slot bark restoration with working playback, known-spells compaction, and the pdialog.2da registration."
     },
     {
       "n": "Solaufein: Vampiric Solaufein + Cleanse",
-      "tp2n": "Solaufein: Vampiric Solaufein + Cleanse",
+      "tp2n": "",
       "cn": 20,
       "wf": "solaufeinEE",
       "wp": "solaufeinEE\\setup-solaufeinEE.tp2",
       "wc": 20,
       "wq": "exact",
-      "tg": ["rec"],
+      "tg": [
+        "rec"
+      ],
       "no": "SoA Chapter 6 story branch. Bodhi abducts Solaufein and the player can restore him via the Temple Ruins ritual. Requires Component 10."
     },
     {
       "n": "Solaufein: ToB Continuation",
-      "tp2n": "Solaufein: ToB Continuation",
+      "tp2n": "",
       "cn": 30,
       "wf": "solaufeinEE",
       "wp": "solaufeinEE\\setup-solaufeinEE.tp2",
       "wc": 30,
       "wq": "exact",
-      "tg": ["rec"],
+      "tg": [
+        "rec"
+      ],
       "no": "Recommended if you play ToB. Interjections, epilogue variants, and the Moonblade auto-return script. Requires Component 10 and the Throne of Bhaal expansion."
     },
     {
       "n": "Solaufein: Eclipse Sequence",
-      "tp2n": "Solaufein: Eclipse Sequence",
+      "tp2n": "",
       "cn": 40,
       "wf": "solaufeinEE",
       "wp": "solaufeinEE\\setup-solaufeinEE.tp2",
       "wc": 40,
       "wq": "exact",
-      "tg": ["adv"],
+      "tg": [
+        "adv"
+      ],
       "no": "Optional high-difficulty ToB challenge encounter with six custom foes. Self-contained. Requires Component 10 and ToB."
     },
     {
       "n": "Solaufein: Extras (KVFix, Multig, UHMER, Misc)",
-      "tp2n": "Solaufein: Extras (KVFix, Multig, UHMER, Misc)",
+      "tp2n": "",
       "cn": 50,
       "wf": "solaufeinEE",
       "wp": "solaufeinEE\\setup-solaufeinEE.tp2",
       "wc": 50,
       "wq": "exact",
-      "tg": ["qol"],
+      "tg": [
+        "qol"
+      ],
       "no": "Optional. Independent patches (Korgan loop fix, Viconia LOVETALK 46 fix, multiplayer kick-out script, UHMER store, projectile fixes). Does not require Component 10."
     }
   ],
@@ -113,7 +128,9 @@
   "dl": "https://github.com/CelestialFury-BG/SolaufeinEE/releases",
   "rq": "BG2EE or EET",
   "rec": {
-    "goes_with": ["valenEE"],
+    "goes_with": [
+      "valenEE"
+    ],
     "tip": "Install after Valen for the cross-mod interjections in Component 10."
   },
   "cl": [

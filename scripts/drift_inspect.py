@@ -19,7 +19,7 @@ if "audit_tp2_drift" in sys.modules:
 from audit_tp2_drift import find_tra_dir, load_tra_map, parse_tp2_components  # noqa
 
 ROOT = Path(__file__).resolve().parents[1]
-EXTRACTED = Path("F:/BGMods/Extracted")
+EXTRACTED = Path("C:/- GAMES/- UTILS/BGEE Utils/- z DOWNLOADS")
 
 
 def build_index():
